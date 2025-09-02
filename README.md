@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎯 **Applied AI Specialist** with 6+ years of experience in developing and deploying practical AI solutions  
+🎯 **Data Scientist** with 6+ years of experience in developing and deploying practical AI solutions  
 🤖 Expert in **LLMs, Generative AI, RAG Systems, and Computer Vision**  
 🌐 Building **AI-powered web applications** and **intelligent chatbots**  
 📍 Based in **Hannover, Germany**  
