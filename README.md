@@ -13,12 +13,7 @@
 ## 🚀 About Me
 
 🎯 **Data Scientist** with 6+ years of experience in developing and deploying practical AI solutions  
-🤖 Expert in **LLMs, Generative AI, RAG Systems, and Computer Vision**  
-🌐 Building **AI-powered web applications** and **intelligent chatbots**  
-📍 Based in **Hannover, Germany**  
-💼 Currently working as a **Freelance AI Architect**  
-
-<div align="center">
+🤖 Expert in **LLMs, Generative AI, RAG Systems, and Computer Vision** 🌐 Building **AI-powered web applications** and **intelligent chatbots** 📍 Based in **Hannover, Germany** 💼 Currently working as a **Freelance AI Architect** <div align="center">
   
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijendramalik)
@@ -29,34 +24,7 @@
 
 ---
 
-## 🛠️ Interactive Tech Stack & Skills
-
-<div align="center">
-
-<!-- Interactive Coding Stats Alternative -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=python">
-          <img src="https://github-readme-stats.vercel.app/api?username=Wissenwelt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=💻 Coding Activity&border_radius=10&count_private=true&include_all_commits=true" alt="Coding Stats"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Wissenwelt?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissenwelt&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=🎯 Language Distribution&border_radius=10" alt="Language Stats"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Interactive Skill Visualization -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,azure,git,postgresql,r&theme=dark&perline=5" alt="Interactive Skills"/>
-  </a>
-</div>
+## 🛠️ Tech Stack & Skills
 
 ### 🤖 AI & Machine Learning
 <div align="center">
@@ -74,6 +42,12 @@
   </a>
   <a href="#ai-ml">
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="#ai-ml">
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="#ai-ml">
+    <img src="https://img.shields.io/badge/LangChain-008638?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117"/>
   </a>
   <a href="#ai-ml">
     <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&labelColor=0D1117"/>
@@ -115,15 +89,12 @@
   </a>
 </div>
 
-</div>
-
 ---
 
-## 📊 Interactive GitHub Analytics Dashboard
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<!-- Interactive GitHub Stats with hover effects -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wissenwelt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10"/>
 </a>
@@ -133,39 +104,12 @@
 
 </div>
 
-<!-- Interactive Streak Stats - Alternative Working Version -->
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Wissenwelt&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" alt="GitHub Streak Stats" />
   </a>
 </div>
 
-<!-- Interactive Repository Cards -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Wissenwelt?tab=repositories&type=source">
-          <img src="https://github-readme-stats.vercel.app/api?username=Wissenwelt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=📊 GitHub Analytics&border_radius=10&include_all_commits=true" alt="Repository Stats"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Wissenwelt?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissenwelt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8&custom_title=💻 Most Used Languages" alt="Top Languages"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Interactive Contribution Graph - Alternative Working Version -->
-<div align="center">
-  <a href="https://github.com/Wissenwelt">
-    <img src="https://github-contribution-graph.vercel.app/graph?username=Wissenwelt&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=🚀 Contribution Activity Graph" alt="Contribution Graph" />
-  </a>
-</div>
-
-<!-- Interactive Trophy Display -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Wissenwelt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
@@ -174,40 +118,13 @@
 
 ---
 
-## 🎮 Contribution Activity - Pac-Man Game
+## 🎮 My Contribution Activity
 
-<div align="center">
-
-<!-- ASCII Pac-Man Animation -->
-```
-🟡 PAC-MAN IS EATING MY CONTRIBUTIONS! 🟡
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-             🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵
-```
-
-</div>
-
-<!-- Pac-Man eating contributions animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid pac-man animation" src="https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Pac-Man Style Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&custom_title=Pac-Man%20Style%20Activity%20Graph&bg_color=0D1117&color=ffdd44&line=ffdd44&point=ff6b35&area=true&hide_border=true" alt="Pac-Man Activity Graph" />
-</div>
 
 ---
 
@@ -222,7 +139,7 @@
 <td width="50%">
 
 #### 🧠 RAG-Powered Chatbots
-- **LLM Integration** with GPT-3.5/4
+- **LLM Integration** with GPT-3.5/4, Gemini
 - **Document Search** & Knowledge Base AI
 - **Embeddings & Context Management**
 - **40% increase in customer engagement**
@@ -270,153 +187,7 @@
 
 ```text
 AI & Machine Learning    ████████████████████████████████████  90%
-Cloud & DevOps          ████████████████████████████████░░░░  85%
-Python Development     ████████████████████████████████████  90%
-Data Science           ███████████████████████████████████░░  88%
-Web Development        ████████████████████████░░░░░░░░░░░░  75%
-```
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔬 **Research**: Advanced RAG architectures and LLM optimization
-- 🛠️ **Building**: Next-gen AI-powered web applications
-- 📚 **Learning**: Latest developments in Generative AI and MLOps
-- 🤝 **Collaborating**: Open source AI projects and knowledge sharing
-
----
-
-## 🌍 Interactive Visitor Analytics
-
-<div align="center">
-
-<!-- Interactive Profile Views Counter -->
-<a href="https://github.com/Wissenwelt">
-  <img src="https://komarev.com/ghpvc/?username=Wissenwelt&color=0e75b6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</a>
-<a href="https://github.com/Wissenwelt?tab=followers">
-  <img src="https://img.shields.io/github/followers/Wissenwelt?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0D1117" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/Wissenwelt?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Wissenwelt?label=Stars&style=for-the-badge&color=0e75b6&labelColor=0D1117" alt="GitHub Stars" />
-</a>
-
-<!-- Interactive World Map of Visitors -->
-<a href="https://github.com/Wissenwelt">
-  <img src="https://github.com/Wissenwelt/Wissenwelt/blob/main/assets/visitor-map.svg" alt="Visitor Map" onerror="this.style.display='none'"/>
-</a>
-
-<!-- Interactive Real-time Metrics -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Wissenwelt?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wissenwelt&repo=Wissenwelt&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="Interactive Repo Card"/>
-        </a>
-      </td>
-      <td>
-        <div align="center">
-          <h3>🎯 Interactive Goals 2025</h3>
-          <p>
-            <a href="#goals"><img src="https://img.shields.io/badge/🚀_Build_10_AI_Projects-70%25-brightgreen?style=for-the-badge&labelColor=0D1117"/></a><br>
-            <a href="#goals"><img src="https://img.shields.io/badge/📚_Learn_New_AI_Frameworks-85%25-blue?style=for-the-badge&labelColor=0D1117"/></a><br>
-            <a href="#goals"><img src="https://img.shields.io/badge/🤝_Open_Source_Contributions-60%25-orange?style=for-the-badge&labelColor=0D1117"/></a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-</div>
-
-<div align="center">
-  
-## 📧 Interactive Connect & Collaborate!
-
-<div align="center">
-  
-<!-- Interactive Contact Cards -->
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🌟 Let's Connect!
-<a href="https://linkedin.com/in/vijendramalik">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-</a><br>
-<a href="https://vijendramalik.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
-</a><br>
-<a href="mailto:vijendra.hannover@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-</a>
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 Quick Stats
-**📍 Location:** Hannover, Germany<br>
-**💼 Status:** Available for AI Projects<br>
-**🎯 Focus:** Generative AI & MLOps<br>
-**⚡ Fun fact:** I turn coffee into AI code!
-
-</td>
-</tr>
-</table>
-
-<!-- Interactive Activity Heatmap - Fixed Version -->
-<div align="center">
-  <h3>🔥 Interactive Activity Heatmap</h3>
-  
-  <!-- Working Activity Graph -->
-  <a href="https://github.com/Wissenwelt">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=🔥 Click to explore my repositories!" alt="Interactive Activity Heatmap" />
-  </a>
-
-  <!-- Backup Activity Graph if first one fails -->
-  <a href="https://github.com/Wissenwelt?tab=overview">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=📈 Interactive Activity Overview" alt="Activity Overview" onerror="this.style.display='none'"/>
-  </a>
-
-  <!-- Alternative - Simple Contribution Calendar -->
-  <div style="margin-top: 20px;">
-    <a href="https://github.com/Wissenwelt">
-      <img src="https://ghchart.rshah.org/2196F3/Wissenwelt" alt="GitHub Contribution Chart" />
-    </a>
-  </div>
-
-</div>
-
-<!-- Interactive Quote Generator -->
-<div align="center">
-  <a href="https://github.com/Wissenwelt">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10" alt="Random Dev Quote"/>
-  </a>
-</div>
-
-<!-- Interactive Social Proof -->
-<div align="center">
-  <h3>🏆 Interactive Achievements</h3>
-  <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=python">
-    <img src="https://img.shields.io/badge/Python_Expert-🐍_6+_Years-yellow?style=for-the-badge&labelColor=0D1117" alt="Python Expert"/>
-  </a>
-  <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=&sort=stars">
-    <img src="https://img.shields.io/badge/AI_Specialist-🤖_LLMs_&_RAG-blue?style=for-the-badge&labelColor=0D1117" alt="AI Specialist"/>
-  </a>
-  <a href="https://github.com/Wissenwelt?tab=repositories">
-    <img src="https://img.shields.io/badge/Cloud_Architect-☁️_Docker_&_K8s-green?style=for-the-badge&labelColor=0D1117" alt="Cloud Architect"/>
-  </a>
-</div>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+Cloud & DevOps           ████████████████████████████████░░░░  85%
+Python Development       ████████████████████████████████████  90%
+Data Science             ███████████████████████████████████░░  88%
+Web Development          ████████████████████████░░░░░░░░░░░░  75%
