@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vijendra Singh Malik
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Applied+AI+Specialist;Full-Stack+Developer;Machine+Learning+Engineer;6%2B+Years+Experience;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;Full-Stack+Developer;Applied+AI+Specialist;6%2B+Years+Experience;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
