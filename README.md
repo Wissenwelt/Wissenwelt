@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vijendra Singh Malik
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;Full-Stack+Developer;Applied+AI+Specialist;6%2B+Years+Experience;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;Full-Stack+Developer;Machine+Learning+Engineer;6%2B+Years+Experience;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -74,15 +74,19 @@
 ## 🎮 Contribution Activity - Pac-Man Game
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- Pac-Man eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid pac-man animation" src="https://raw.githubusercontent.com/Wissenwelt/Wissenwelt/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-<!-- Alternative Pac-Man style contribution graph -->
+<!-- Pac-Man Style Activity Graph -->
 <div align="center">
-  <img src="https://github.com/Wissenwelt/Wissenwelt/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&custom_title=Pac-Man%20Style%20Activity%20Graph&bg_color=0D1117&color=ffdd44&line=ffdd44&point=ff6b35&area=true&hide_border=true" alt="Pac-Man Activity Graph" />
 </div>
 
 ---
