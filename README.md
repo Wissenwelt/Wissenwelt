@@ -33,14 +33,29 @@
 
 <div align="center">
 
-<!-- Interactive WakaTime Coding Stats -->
-<a href="https://wakatime.com/@Wissenwelt">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wissenwelt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=💻 Weekly Coding Activity&border_radius=10" alt="WakaTime Stats"/>
-</a>
+<!-- Interactive Coding Stats Alternative -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=python">
+          <img src="https://github-readme-stats.vercel.app/api?username=Wissenwelt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=💻 Coding Activity&border_radius=10&count_private=true&include_all_commits=true" alt="Coding Stats"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Wissenwelt?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissenwelt&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=🎯 Language Distribution&border_radius=10" alt="Language Stats"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Interactive Skill Visualization -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,azure,git,postgresql,r&theme=dark&perline=5" alt="Interactive Skills"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,azure,git,postgresql,r&theme=dark&perline=5" alt="Interactive Skills"/>
+  </a>
 </div>
 
 ### 🤖 AI & Machine Learning
@@ -118,24 +133,35 @@
 
 </div>
 
-<!-- Interactive Streak Stats -->
+<!-- Interactive Streak Stats - Alternative Working Version -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wissenwelt&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Wissenwelt&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" alt="GitHub Streak Stats" />
   </a>
 </div>
 
-<!-- Interactive Metrics Cards -->
+<!-- Interactive Repository Cards -->
 <div align="center">
-  <a href="https://github.com/Wissenwelt?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wissenwelt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=📈 Repository Analytics&border_radius=10" alt="Repository Stats"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Wissenwelt?tab=repositories&type=source">
+          <img src="https://github-readme-stats.vercel.app/api?username=Wissenwelt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=📊 GitHub Analytics&border_radius=10&include_all_commits=true" alt="Repository Stats"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Wissenwelt?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissenwelt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8&custom_title=💻 Most Used Languages" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Interactive Contribution Graph -->
+<!-- Interactive Contribution Graph - Alternative Working Version -->
 <div align="center">
-  <a href="https://github.com/Wissenwelt/Wissenwelt/graphs/contributors">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&custom_title=🚀 Interactive Contribution Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&border_radius=10" alt="Interactive Contribution Graph" />
+  <a href="https://github.com/Wissenwelt">
+    <img src="https://github-contribution-graph.vercel.app/graph?username=Wissenwelt&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=🚀 Contribution Activity Graph" alt="Contribution Graph" />
   </a>
 </div>
 
@@ -343,12 +369,27 @@ Web Development        ███████████████████
 </tr>
 </table>
 
-<!-- Interactive Activity Heatmap -->
+<!-- Interactive Activity Heatmap - Fixed Version -->
 <div align="center">
   <h3>🔥 Interactive Activity Heatmap</h3>
+  
+  <!-- Working Activity Graph -->
   <a href="https://github.com/Wissenwelt">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=Click to explore my repositories!" alt="Interactive Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=🔥 Click to explore my repositories!" alt="Interactive Activity Heatmap" />
   </a>
+
+  <!-- Backup Activity Graph if first one fails -->
+  <a href="https://github.com/Wissenwelt?tab=overview">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=📈 Interactive Activity Overview" alt="Activity Overview" onerror="this.style.display='none'"/>
+  </a>
+
+  <!-- Alternative - Simple Contribution Calendar -->
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/Wissenwelt">
+      <img src="https://ghchart.rshah.org/2196F3/Wissenwelt" alt="GitHub Contribution Chart" />
+    </a>
+  </div>
+
 </div>
 
 <!-- Interactive Quote Generator -->
