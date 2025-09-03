@@ -228,70 +228,65 @@ Web Development          ██████████████████�
 ---
 
 ## 📧 Interactive Connect & Collaborate!
-
 <div align="center">
 
-<!-- Interactive Contact Cards -->
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 🌟 Let's Connect!
+🌟 Let's Connect!
 <a href="https://linkedin.com/in/vijendramalik">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a><br>
 <a href="https://vijendramalik.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
 </a><br>
 <a href="mailto:vijendra.hannover@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
 
 </td>
 <td align="center" width="50%">
 
-### 🚀 Quick Stats
-**📍 Location:** Hannover, Germany<br>
-**💼 Status:** Available for AI Projects<br>
-**🎯 Focus:** Generative AI & MLOps<br>
-**⚡ Fun fact:** I turn coffee into AI code!
+🚀 Quick Stats
+📍 Location: Hannover, Germany<br>
+💼 Status: Available for AI Projects<br>
+🎯 Focus: Generative AI & MLOps<br>
+⚡ Fun fact: I turn coffee into AI code!
 
 </td>
 </tr>
 </table>
 
-<!-- Interactive Activity Graph -->
 <div align="center">
-  <h3>🔥 GitHub Activity Graph</h3>
-  <a href="https://github.com/Wissenwelt">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=My GitHub Contribution Timeline" alt="GitHub Activity Graph" />
-  </a>
+<h3>🔥 Interactive Activity Heatmap</h3>
+<a href="https://github.com/Wissenwelt">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.cyclic.app/graph%3Fusername%3DWissenwelt%26theme%3Dtokyo-night%26bg_color%3D0D1117%26color%3D58A6FF%26line%3D1F6FEB%26point%3DFF6B35%26area%3Dtrue%26hide_border%3Dtrue" alt="Interactive Activity Graph" />
+</a>
 </div>
 
-<!-- Geoffrey Hinton Quote -->
-<div align="center">
-  <h3>💡 Inspirational Quote</h3>
-  <img src="https://readme-quotes.vercel.app/api?quote=To+deal+with+a+14-dimensional+space%2C+visualize+a+3D+space+and+say%2C+%27fourteen%27+to+yourself+very+loudly.+Everyone+does+it.&author=Geoffrey+Hinton&bg_color=0D1117&text_color=C9D1D9&author_color=58A6FF&border_color=1F6FEB" alt="Geoffrey Hinton Quote"/>
+<div align="center" style="margin-top: 20px;">
+<blockquote style="font-style: italic;">
+"To deal with a 14-dimensional space, visualize a 3-D space and say 'fourteen' to yourself very loudly."
+</blockquote>
+<b>— Geoffrey Hinton</b>
 </div>
 
-<!-- Interactive Social Proof -->
 <div align="center">
-  <h3>🏆 Interactive Achievements</h3>
-  <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=python">
-    <img src="https://img.shields.io/badge/Python_Expert-🐍_6+_Years-yellow?style=for-the-badge&labelColor=0D1117" alt="Python Expert"/>
-  </a>
-  <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=&sort=stars">
-    <img src="https://img.shields.io/badge/AI_Specialist-🤖_LLMs_&_RAG-blue?style=for-the-badge&labelColor=0D1117" alt="AI Specialist"/>
-  </a>
-  <a href="https://github.com/Wissenwelt?tab=repositories">
-    <img src="https://img.shields.io/badge/Cloud_Architect-☁️_Docker_&_K8s-green?style=for-the-badge&labelColor=0D1117" alt="Cloud Architect"/>
-  </a>
+<h3>🏆 Interactive Achievements</h3>
+<a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=python">
+<img src="https://img.shields.io/badge/Python_Expert-🐍_6+Years-yellow?style=for-the-badge&labelColor=0D1117" alt="Python Expert"/>
+</a>
+<a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=&sort=stars">
+<img src="https://img.shields.io/badge/AI_Specialist-🤖_LLMs&RAG-blue?style=for-the-badge&labelColor=0D1117" alt="AI Specialist"/>
+</a>
+<a href="https://github.com/Wissenwelt?tab=repositories">
+<img src="https://img.shields.io/badge/Cloud_Architect-☁️_Docker&_K8s-green?style=for-the-badge&labelColor=0D1117" alt="Cloud Architect"/>
+</a>
 </div>
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
