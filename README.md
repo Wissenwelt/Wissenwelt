@@ -185,9 +185,96 @@
 
 <div align="center">
 
-```text
+
 AI & Machine Learning    ████████████████████████████████████  90%
 Cloud & DevOps           ████████████████████████████████░░░░  85%
 Python Development       ████████████████████████████████████  90%
 Data Science             ███████████████████████████████████░░  88%
 Web Development          ████████████████████████░░░░░░░░░░░░  75%
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔬 **Research**: Advanced RAG architectures and LLM optimization
+- 🛠️ **Building**: Next-gen AI-powered web applications
+- 📚 **Learning**: Latest developments in Generative AI and MLOps
+- 🤝 **Collaborating**: Open source AI projects and knowledge sharing
+
+---
+
+## 📧 Let's Connect!
+
+<div align="center">
+  
+## 📧 Interactive Connect & Collaborate!
+
+<div align="center">
+  
+<!-- Interactive Contact Cards -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌟 Let's Connect!
+<a href="https://linkedin.com/in/vijendramalik">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a><br>
+<a href="https://vijendramalik.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+</a><br>
+<a href="mailto:vijendra.hannover@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Quick Stats
+**📍 Location:** Hannover, Germany<br>
+**💼 Status:** Available for AI Projects<br>
+**🎯 Focus:** Generative AI & MLOps<br>
+**⚡ Fun fact:** I turn coffee into AI code!
+
+</td>
+</tr>
+</table>
+
+<!-- Interactive Activity Heatmap -->
+<div align="center">
+  <h3>🔥 Interactive Activity Heatmap</h3>
+  <a href="https://github.com/Wissenwelt">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=Click to explore my repositories!" alt="Interactive Activity Graph" />
+  </a>
+</div>
+
+<!-- Interactive Quote Generator -->
+<div align="center">
+  <a href="https://github.com/Wissenwelt">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10" alt="Random Dev Quote"/>
+  </a>
+</div>
+
+<!-- Interactive Social Proof -->
+<div align="center">
+  <h3>🏆 Interactive Achievements</h3>
+  <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=python">
+    <img src="https://img.shields.io/badge/Python_Expert-🐍_6+_Years-yellow?style=for-the-badge&labelColor=0D1117" alt="Python Expert"/>
+  </a>
+  <a href="https://github.com/Wissenwelt?tab=repositories&q=&type=&language=&sort=stars">
+    <img src="https://img.shields.io/badge/AI_Specialist-🤖_LLMs_&_RAG-blue?style=for-the-badge&labelColor=0D1117" alt="AI Specialist"/>
+  </a>
+  <a href="https://github.com/Wissenwelt?tab=repositories">
+    <img src="https://img.shields.io/badge/Cloud_Architect-☁️_Docker_&_K8s-green?style=for-the-badge&labelColor=0D1117" alt="Cloud Architect"/>
+  </a>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
