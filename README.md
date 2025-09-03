@@ -261,7 +261,7 @@ Web Development          ██████████████████�
 <div align="center">
 <h3>🔥 Contribution Activity Graph</h3>
 <a href="https://github.com/Wissenwelt">
-<img src="https://www.google.com/search?q=https://github-contribution-graph.vercel.app/graph%3Fusername%3DWissenwelt%26bg_color%3D0D1117%26color%3D58A6FF%26line%3D1F6FEB%26point%3DFF6B35%26area%3Dtrue%26hide_border%3Dtrue" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </a>
 </div>
 
