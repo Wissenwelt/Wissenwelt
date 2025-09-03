@@ -1,21 +1,33 @@
 # Hi there! 👋 I'm Vijendra Singh Malik
 
 <div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;Full-Stack+Developer;Machine+Learning+Engineer;6%2B+Years+Experience;Always+Learning+New+Things!" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=Wissenwelt&color=0e75b6&style=flat" alt="Profile Views" />
+
   <img src="https://img.shields.io/github/followers/Wissenwelt?label=Followers&style=social" alt="GitHub Followers" />
+
   <img src="https://img.shields.io/github/stars/Wissenwelt?label=Stars&style=social" alt="GitHub Stars" />
+
 </div>
 
 ## 🚀 About Me
 
 🎯 **Data Scientist** with 6+ years of experience in developing and deploying practical AI solutions  
-🤖 Expert in **LLMs, Generative AI, RAG Systems, and Computer Vision** 🌐 Building **AI-powered web applications** and **intelligent chatbots** 📍 Based in **Hannover, Germany** 💼 Currently working as a **Freelance AI Architect** <div align="center">
-  
+🤖 Expert in **LLMs, Generative AI, RAG Systems, and Computer Vision**  
+🌐 Building **AI-powered web applications** and **intelligent chatbots**  
+📍 Based in **Hannover, Germany**  
+💼 Currently working as a **Freelance AI Architect**
+
+<div align="center">
+
 ### 🌐 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijendramalik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vijendramalik.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijendra.hannover@gmail.com)
@@ -27,7 +39,9 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 🤖 AI & Machine Learning
+
 <div align="center">
+
   <a href="#ai-ml">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
   </a>
@@ -52,10 +66,13 @@
   <a href="#ai-ml">
     <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&labelColor=0D1117"/>
   </a>
+
 </div>
 
 ### ☁️ Cloud & DevOps
+
 <div align="center">
+
   <a href="#cloud-devops">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
   </a>
@@ -71,10 +88,13 @@
   <a href="#cloud-devops">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
   </a>
+
 </div>
 
 ### 💾 Databases & Tools
+
 <div align="center">
+
   <a href="#databases">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
   </a>
@@ -87,6 +107,7 @@
   <a href="#databases">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
   </a>
+
 </div>
 
 ---
@@ -185,12 +206,13 @@
 
 <div align="center">
 
-
+```text
 AI & Machine Learning    ████████████████████████████████████  90%
 Cloud & DevOps           ████████████████████████████████░░░░  85%
 Python Development       ████████████████████████████████████  90%
-Data Science             ███████████████████████████████████░░  88%
+Data Science             ███████████████████████████████████░  88%
 Web Development          ████████████████████████░░░░░░░░░░░░  75%
+```
 
 </div>
 
@@ -205,14 +227,10 @@ Web Development          ██████████████████�
 
 ---
 
-## 📧 Let's Connect!
-
-<div align="center">
-  
 ## 📧 Interactive Connect & Collaborate!
 
 <div align="center">
-  
+
 <!-- Interactive Contact Cards -->
 <table>
 <tr>
@@ -242,19 +260,18 @@ Web Development          ██████████████████�
 </tr>
 </table>
 
-<!-- Interactive Activity Heatmap -->
+<!-- Interactive Activity Graph -->
 <div align="center">
-  <h3>🔥 Interactive Activity Heatmap</h3>
+  <h3>🔥 GitHub Activity Graph</h3>
   <a href="https://github.com/Wissenwelt">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=Click to explore my repositories!" alt="Interactive Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissenwelt&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=My GitHub Contribution Timeline" alt="GitHub Activity Graph" />
   </a>
 </div>
 
-<!-- Interactive Quote Generator -->
+<!-- Geoffrey Hinton Quote -->
 <div align="center">
-  <a href="https://github.com/Wissenwelt">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10" alt="Random Dev Quote"/>
-  </a>
+  <h3>💡 Inspirational Quote</h3>
+  <img src="https://readme-quotes.vercel.app/api?quote=To+deal+with+a+14-dimensional+space%2C+visualize+a+3D+space+and+say%2C+%27fourteen%27+to+yourself+very+loudly.+Everyone+does+it.&author=Geoffrey+Hinton&bg_color=0D1117&text_color=C9D1D9&author_color=58A6FF&border_color=1F6FEB" alt="Geoffrey Hinton Quote"/>
 </div>
 
 <!-- Interactive Social Proof -->
