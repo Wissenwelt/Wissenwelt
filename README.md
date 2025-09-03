@@ -227,14 +227,14 @@ Web Development          ██████████████████�
 
 ---
 
-## 📧 Interactive Connect & Collaborate!
+## 📧 🌟 Let's Connect!
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-🌟 Let's Connect!
+
 <a href="https://linkedin.com/in/vijendramalik">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a><br>
@@ -259,9 +259,9 @@ Web Development          ██████████████████�
 </table>
 
 <div align="center">
-<h3>🔥 Interactive Activity Heatmap</h3>
+<h3>🔥 Contribution Activity Graph</h3>
 <a href="https://github.com/Wissenwelt">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.cyclic.app/graph%3Fusername%3DWissenwelt%26theme%3Dtokyo-night%26bg_color%3D0D1117%26color%3D58A6FF%26line%3D1F6FEB%26point%3DFF6B35%26area%3Dtrue%26hide_border%3Dtrue" alt="Interactive Activity Graph" />
+<img src="https://www.google.com/search?q=https://github-contribution-graph.vercel.app/graph%3Fusername%3DWissenwelt%26bg_color%3D0D1117%26color%3D58A6FF%26line%3D1F6FEB%26point%3DFF6B35%26area%3Dtrue%26hide_border%3Dtrue" alt="Contribution Activity Graph" />
 </a>
 </div>
 
